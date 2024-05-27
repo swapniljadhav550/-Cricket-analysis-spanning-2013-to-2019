@@ -8,13 +8,6 @@ This project is a comprehensive analysis of ODI cricket matches spanning from 20
 - **Leading Wicket-Taker**: Lasith Malinga reigns supreme as the leading wicket-taker, highlighting his prowess as a bowler.
 - **Record-Breaking Feats**: Rohit Sharma's record-breaking individual run score in a match and Tim Southee's stellar performance in taking the most individual wickets in a match stand out as remarkable feats.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
-## How to Use
-1. Clone this repository to your local machine.
-2. Open the project in Microsoft Power BI.
-3. Explore the dashboards to delve into the insights uncovered through our analysis.
 
 ## Data Source
 The data used for this analysis was sourced from [github].
